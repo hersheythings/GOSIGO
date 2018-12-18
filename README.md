@@ -4,10 +4,10 @@
 
 근데 어차피 내 특성상 또 다른 곳으로 눈을 돌릴 가능성이 매우 큼. 따라서 대학 졸업 전까지 진행할 장기 프로젝트가 되어야 할 듯. 시작일은 181218.
 ### Team
->Product Managing ; hershey
-Strategy and sales ; hershey
-core dev ; TBD
-UI/UX ; TBD
+> Product Managing ; hershey
+> Strategy and sales ; hershey
+> core dev ; TBD
+> UI/UX ; TBD
 
 언어는 Swift로 할거임. 아이폰쓰는 사람들이 제일 많고, 그게 중요한게 아니라 일단 내가 앱등이임.
 
