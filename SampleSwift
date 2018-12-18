@@ -1,0 +1,21 @@
+/* GOSIGO begins */
+
+import Cocoa
+
+var str = "Hello, playground"
+
+/* Sample Swift ML iOS app develop */
+
+"Hello, playground"
+
+str
+
+var number = 7
+
+number = 10
+
+
+str = 20
+
+number = "hello, apple"
+
